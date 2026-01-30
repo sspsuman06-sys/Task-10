@@ -1,0 +1,7 @@
+
+EDA Findings:
+1. Dataset contains student exam performance data.
+2. Numeric columns showed mild outliers, handled using capping.
+3. No major missing value issues observed.
+4. Strong positive correlation observed between math, reading, and writing scores.
+5. Outliers were capped instead of removed to avoid data loss.
